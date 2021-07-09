@@ -1,3 +1,2 @@
 # Channel-Split-RSN
-source code for Channel-Split RSN
-Human Pose Estimation Algorithm based on Channel Splitting
+source code for Human Pose Estimation Algorithm based on Channel Splitting

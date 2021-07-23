@@ -20,10 +20,6 @@ $RSN_HOME
 |   |       |-- train2014
 |   |       |-- val2014
 |   |
-|   |-- MPII
-|       |-- det_json
-|       |-- gt_json
-|       |-- images
 |   
 |-- lib
 |   |-- models

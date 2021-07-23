@@ -1,5 +1,5 @@
-## 这里我们提供Pytorch 风格的代码
-## Here we provide Pytorch style code for future research
+## 这里我们提供Pytorch 风格的代码(COCO 数据集)
+## Here we provide Pytorch style code for future research(COCO dataset)
 
 
 #### Note

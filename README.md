@@ -43,7 +43,7 @@ $RSN_HOME
 
 1. Install Pytorch referring to [Pytorch website][2].
 
-2. Clone this repo, and config **RSN_HOME** in **/etc/profile** or **~/.bashrc**, e.g.
+2. Clone this repo, and config **Your Home** in **/etc/profile** or **~/.bashrc**, e.g.
  ```
  export RSN_HOME='/path/of/your/cloned/repo'
  export PYTHONPATH=$PYTHONPATH:$RSN_HOME
@@ -65,11 +65,11 @@ $RSN_HOME
 
 #### COCO
 
-1. Download images from [COCO website][4], and put train2014/val2014 splits into **$RSN_HOME/dataset/COCO/images/** respectively.
+1. Download images from [COCO website][4], and put train2014/val2014 splits into **$Your Home/dataset/COCO/images/** respectively.
 
-2. Download ground truth from [Google Drive][6] or [Baidu Drive][10] (code: fc51), and put it into **$RSN_HOME/dataset/COCO/gt_json/**.
+2. Download ground truth from [Google Drive][6] or [Baidu Drive][10] (code: fc51), and put it into **$Your Home/dataset/COCO/gt_json/**.
 
-3. Download detection result from [Google Drive][6] or [Baidu Drive][10] (code: fc51), and put it into **$RSN_HOME/dataset/COCO/det_json/**.
+3. Download detection result from [Google Drive][6] or [Baidu Drive][10] (code: fc51), and put it into **$Your Home/dataset/COCO/det_json/**.
 
 
 

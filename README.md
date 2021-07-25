@@ -56,8 +56,8 @@ $Your_HOME
 
 4. Install COCOAPI referring to [cocoapi website][3], or:
  ```
- git clone https://github.com/cocodataset/cocoapi.git $RSN_HOME/lib/COCOAPI
- cd $RSN_HOME/lib/COCOAPI/PythonAPI
+ git clone https://github.com/cocodataset/cocoapi.git $Your_HOME/lib/COCOAPI
+ cd $Your_HOME/lib/COCOAPI/PythonAPI
  make install
  ```
  

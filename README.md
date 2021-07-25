@@ -10,7 +10,7 @@
 ## Repo Structure
 This repo is organized as following:
 ```
-$RSN_HOME
+$Your_HOME
 |-- cvpack
 |
 |-- dataset
@@ -45,8 +45,8 @@ $RSN_HOME
 
 2. Clone this repo, and config **Your Home** in **/etc/profile** or **~/.bashrc**, e.g.
  ```
- export RSN_HOME='/path/of/your/cloned/repo'
- export PYTHONPATH=$PYTHONPATH:$RSN_HOME
+ export Your_HOME='/path/of/your/cloned/repo'
+ export PYTHONPATH=$PYTHONPATH:$Your_HOME
  ```
 
 3. Install requirements:

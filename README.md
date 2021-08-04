@@ -1,4 +1,4 @@
-## Our paper is still under review. Upon accpeted, we will provide PDF version of my paper
+## Our paper is still under review. Upon accpeted, we will provide PDF version of our paper
 ## 这里我们提供Pytorch 风格的代码(COCO 数据集)
 ## Here we provide Pytorch style code for future research(COCO dataset)
 

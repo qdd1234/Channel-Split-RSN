@@ -9,7 +9,9 @@ Abstract:To improve the accuracy and speed of human pose estimation, a channel-s
 
 
 ## if you are interested in our paper, you can download our paper in [BaiduYun](https://pan.baidu.com/s/1aoSmS6qdR5lPDQc9TtyHsA) 
-## password of the link:wmml
+## password of the Baidu Yun:wmml
+## You can also download our paper in [Google Drive](https://drive.google.com/file/d/194-3paObTnOe2X72RSdehgb3EztZuuIA/view?usp=sharing)
+
 
 ## 这里我们提供Pytorch 风格的代码(COCO 数据集)
 ## Here we provide Pytorch style code for future research(COCO dataset)

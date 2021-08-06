@@ -8,6 +8,8 @@ Abstract:To improve the accuracy and speed of human pose estimation, a channel-s
 ![image](https://user-images.githubusercontent.com/68497831/128497024-2bef1c01-f14b-4301-a5f6-f35463cad032.png)
 
 
+## if you are interested in our paper, you can download our paper in this link:[BaiduYun](https://pan.baidu.com/s/1aoSmS6qdR5lPDQc9TtyHsA) 
+## password of the link:wmml
 
 ## 这里我们提供Pytorch 风格的代码(COCO 数据集)
 ## Here we provide Pytorch style code for future research(COCO dataset)

@@ -1,6 +1,16 @@
-## Our paper is still under review. Upon accpeted, we will provide PDF version of our paper
-## 这里我们提供Pytorch 风格的代码(COCO 数据集)
-## Here we provide Pytorch style code for future research(COCO dataset)
+## Our paper is accepted by Computer And Modernization！！！！
+
+# Abstract:To improve the accuracy and speed of human pose estimation, a channel-split-based human pose estimation algorithm, named Channel-Split Residual Steps Network (Channel-Split RSN), is proposed. First of all, Channel-Split Blocks are proposed to apply convolution operation for split feature in order to obtain rich feature representation. Then, Feature Enhancement Block are introduced to further split feature channel and employ different strategies for different groups which can reduce similar features in feature channels. Finally, to further enhance the Pose Refine Machine in Channel-Split RSN, combined with improved spatial attention mechanism, a Pose Refine Machine based on feature spatial correlation, named Context-PRM, is proposed. Experimental results show that on the COCO test-dev dataset, our algorithm reaches 75.9% AP and 55.36 FPS, and the Params(M) of the model is only 18.3. Compared with the traditional RSN18 and RSN50, the AP of the model is improved by 5% and 3.4%, respectively. FPS is 12.08 faster than the traditional RSN50. On the more challenging CrowdPose dataset, our approach achieves 66.9% AP and 19.16 FPS, an AP improvement of 4.6% compared to RSN18,which effectively improves the accuracy of human pose estimation and the model has a faster recognition speed.
+
+
+![image](https://user-images.githubusercontent.com/68497831/128496986-3ccb60d9-fec4-4424-b485-d9cac5c72b7b.png)
+![image](https://user-images.githubusercontent.com/68497831/128497007-1cbf6d46-3e14-4f13-8033-e817563f26d2.png)
+![image](https://user-images.githubusercontent.com/68497831/128497024-2bef1c01-f14b-4301-a5f6-f35463cad032.png)
+
+
+
+# 这里我们提供Pytorch 风格的代码(COCO 数据集)
+# Here we provide Pytorch style code for future research(COCO dataset)
 
 
 #### Note

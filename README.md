@@ -9,8 +9,8 @@ Abstract:To improve the accuracy and speed of human pose estimation, a channel-s
 
 
 
-# 这里我们提供Pytorch 风格的代码(COCO 数据集)
-# Here we provide Pytorch style code for future research(COCO dataset)
+## 这里我们提供Pytorch 风格的代码(COCO 数据集)
+## Here we provide Pytorch style code for future research(COCO dataset)
 
 
 #### Note

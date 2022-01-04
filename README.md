@@ -132,5 +132,5 @@ You can contact us by email published in our [paper][11].
 [10]: https://pan.baidu.com/s/1MqpmR7EkZu3G_Hi0_4NFTA
 [11]: https://arxiv.org/abs/2003.04030
 
-if you think our work is helpful to your work,please cite our work in chinses:
+if you think our work is helpful to your work,please cite our work in Chinese:
 [1]周昆阳,赵梦婷,张海潮,邵叶秦.基于通道切分的人体姿态估计算法[J].计算机与现代化,2021(12):27-36+42.
